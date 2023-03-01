@@ -32,3 +32,16 @@ nav a {
 #table_wrapper {
   margin-top: 60px;
 }
+.alert_page {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.alert {
+  margin-top: 60px;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
